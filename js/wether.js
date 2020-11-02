@@ -1,6 +1,6 @@
 const weather = document.querySelector(".myLocationInfo");
 
-const API_KEY = "feab79710cf43c5946579544cfa2cbc*"; // 위에서 복사한 API key (뒤에 세자리 가림***)() 
+const API_KEY = "feab79710cf43c5946579544cfa2cbc*"; // 위에서 복사한 API key (뒤에 세자리 가림***)(six) 
 const COORDS = "coords";  // localStoraged에 저장할 키 이름
 
 // 날씨 api사용 함수
